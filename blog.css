@@ -1,0 +1,9 @@
+#features3-1p > div > div.row.mt-4 > div > div > div.item-content > p {
+	overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+#features3-1p > div > div.row.mt-4 > div:nth-child(2) > div > div.item-content > h5 {
+	font-size: 1.5rem;
+}
